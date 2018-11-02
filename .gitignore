@@ -1,5 +1,4 @@
 config.inc.php
 *.phar
-vendor
 .idea
 .DS_Store
